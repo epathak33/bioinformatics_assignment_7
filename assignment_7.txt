@@ -1,0 +1,1 @@
+In the figure, different color represents different tracks. The peak in each track shows that certain genes are expressed. We can also compare the ATAC seq data with RNA expression data at the same time. The annotation track shows the coding genes.
